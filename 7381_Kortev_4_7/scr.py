@@ -57,11 +57,11 @@ model.add(Dense(8, activation="relu"))
 model.add(Dense(1, activation="sigmoid"))
 model.compile(optimizer="adam", loss="binary_crossentropy", metrics=['accuracy'])
 
-print('true answer: \n',np.array([log(*x) for x in inp]))
+print('true answer: \n',labels)
 
 compr(inp,model)
 print('\nfitting...\n')
-model.fit(inp, np.array([log(*x) for x in inp]),epochs=200,batch_size=1,verbose=0)
+model.fit(inp, labels,epochs=200,batch_size=1,verbose=0)
 compr(inp, model)
 
-print('true answer: \n',np.array([log(*x) for x in inp]))
+print('true answer: \n',labels)
