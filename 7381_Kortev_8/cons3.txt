@@ -1,0 +1,3557 @@
+C:\Users\green\PycharmProjects\nn\venv\Scripts\python.exe "C:\Program Files\JetBrains\PyCharm 2019.3.4\plugins\python\helpers\pydev\pydevconsole.py" --mode=client --port=50745
+
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['C:\\Users\\green\\PycharmProjects\\nn', 'C:/Users/green/PycharmProjects/nn'])
+
+PyDev console: starting.
+
+Python 3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 10:41:24) [MSC v.1900 64 bit (AMD64)] on win32
+>>> runfile('C:/Users/green/.PyCharm2019.3/config/scratches/pr_6.py', wdir='C:/Users/green/.PyCharm2019.3/config/scratches')
+Using TensorFlow backend.
+Epoch 1/100
+ - 27s - loss: 0.5244
+temp:  0.5
+'never!' said the queen furiously:
+ 'but they's sed you were all great her had been into she was sook it all disarirally for her ondeso
+ning in rathen. 'i beg notice that present what it.
+
+'we well, alice the little now that would be be
+ the game to be so, and had no it!' cried alice as she went words the growl.'
+
+'what soupting all al
+walfous their hands
+to find the garden down it.
+
+'it's the same stupined the part, if i moush it wo
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but it was a large cross tear a little gloves,
+and alice seemed to see if she was sook alice, and
+alice seemed to see if she was sook alice, and alice seemed to see if she was sook alice, and alice
+seemed to see if she was sook alice, and alice seemed to see if she was sook alice, and alice seemed
+ to see if she was sook alice, and alice seemed to see if she was sook alice, and alice seemed to s
+------
+
+
+Epoch 00001: loss improved from inf to 0.52444, saving model to weights-improvement.hdf5
+Epoch 2/100
+ - 26s - loss: 0.5199
+temp:  0.5
+'never!' said the queen furiously:
+ and she tried hown could
+cheating to the coming me
+the hatterce in the to listent.'
+
+'what stom, yo
+u do it!' saC:/Users/green/.PyCharm2019.3/config/scratches/pr_6.py:17: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+id the mock turtle.
+
+'dint the duch,' said alice, as she stoling follea
+with halking the
+ lest nock opened to hear in she could.
+
+'but the duchess some fiind it down it all as she could her
+ seem at the shall.
+
+
+'her quite out of it a
+chandy to the or three what stold lived,
+     wow lit
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but i'm not alice shalk curious as her as, 'and what as she fent in the or shall doing out the rab
+bit came in was, and the other quiet, and alice sentently and the court which shring she had fitt ey
+es, 'i should be try alice the courth
+at once,: there they had sugat down look fawl at shrieking at
+the could.
+
+'befond the cat oug, you know what went on of and whin---i
+han the earls of the sand li
+------
+
+
+Epoch 00002: loss improved from 0.52444 to 0.51986, saving model to weights-improvement.hdf5
+Epoch 3/100
+ - 26s - loss: 0.5179
+temp:  0.5
+'never!' said the queen furiously:
+ 'but they's proce.'
+
+'you'd being me that you do its, in a very have considey, and must be re, and
+the or she was going tone, so she said to alice, and she was sollen one fines to se she was a large
+right, for theire was no one of the so, and arm only size: he sittlr the bank--the began to grow und
+own had lessoing she had seventheres livers a large pioters, and the other queen, 'but the duchess
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+alice was solle hays was gone and must curious timeing his head!ginning it to her
+head!' and she r
+eplied, for as he sat down, when she was going to grod heads. as the sounts at alice her he serpos w
+hat she was her head sidd of sude, and
+the other quite fan't it; and how drew him feet him head sigh
+t with, i was a large poor little thing was gone and quite forget with the gryphon. 'i've said neve
+------
+
+
+Epoch 00003: loss improved from 0.51986 to 0.51786, saving model to weights-improvement.hdf5
+Epoch 4/100
+ - 26s - loss: 0.5161
+temp:  0.5
+'never!' said the queen furiously.
+ 'what the words a brig, and all the trime in the eggry and guin, who say
+    for mes or down of cha
+ncy wish, i wish i had bean
+you felt quite fanning to the tarts
+to curtsed hour deen lioters!'
+
+'i w
+ish you play only say to going a bowf optund and , allay tor. 'i'd be alice replied, it's a frighten
+ed to the gardenly. 'what happensed to see that have could going to change the tame, and eare alice
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+and when she had heve could children about it had been, 'it's a very soon make his hedd, and the c
+ourse; 'and what are you
+con't you?' said alice to herself, 'indide before the dormouse the sort, an
+d how happened to her head immanted him had have could go down to say to the mock turtle, 'when the
+way the moral
+des croquetfussion,
+you seary,' said the cat; 'i dee)?' becongly right in a large rig
+------
+
+
+Epoch 00004: loss improved from 0.51786 to 0.51614, saving model to weights-improvement.hdf5
+Epoch 5/100
+ - 26s - loss: 0.5116
+temp:  0.5
+'never!' said the queen furiously:
+ 'but she got to see all. 'the wrulen to think,' said the dormouse, whos in time and
+the to lister,
+but she got any
+a such a heading a book, but the end
+of her sighin beings
+tall, who had heve conside
+dly provessing the things and funty in the engle of execution it was a bolver!' the king said to her
+self, 'i wonder what they's peppedt finuse of the began to do it a book sing flem and muckly up ali
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but she turned it was a little did not like and twent in a truean when i make on,
+and all the time
+ tore's the dormouse sigher and looked aloug
+the time who
+weres, but the dormouse said, she was sold
+en alice was speally, for it all comind to her head immant about it. and
+so she got a canderwrord co
+nside: alice herself 'not i'll stook i had ang gloved get his head. 'now only said
+
+   but i deal g
+------
+
+
+Epoch 00005: loss improved from 0.51614 to 0.51160, saving model to weights-improvement.hdf5
+Epoch 6/100
+ - 28s - loss: 0.5126
+temp:  0.5
+'never!' said the queen furiously.
+ 'why don't goan any replates all expected at the court, and she said--when
+owlonge's no use i don't
+ know the dormouse thank it on the caution, course!' said the king. (the fird the while the court re
+me that she spoke, never been
+up in an older to her hand am: alice happen it as the subbing in comes
+ of it.
+
+'you see, a song alice as it everything their fues of the spot. course!' said the cat out
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ and she said to herself, 'and then i've openting the moral,' said the king. (the queen as she said
+to her head of the garden. he said afrathing, but she thought the gryphon, but the tall hard of a th
+ink in the sort of the gryphon. 'go another iting.'
+
+'i've said to means a bit, you do you know
+she
+went on. 'what the white remark and funted their histlar, by, not?' said the caterpillar.
+
+'i've sa
+------
+
+
+Epoch 00006: loss did not improve from 0.51160
+Epoch 7/100
+ - 25s - loss: 0.5117
+temp:  0.5
+'never!' said the queen furiously.
+
+'exexerdd' when she greeincd, for she could denet a bothers with sitpeation.' when she pleped
+littl
+e shriek of things to herself speaking about it, and remarked into it all came of the trees about th
+e talls very sort of the knocce, and, as she said to herself,
+rabbings oft her sing, whos it was a l
+ittle bitterping by this curiouse in her at oncely. 'exerectant, behas in the earde the
+house, and
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'exerect!' the march hare alice said
+
+the sounds of more the shalle was a book a bat ow or she was.
+
+
+here the other ling,' said then they remainsow, 'you're think that's all.'
+
+
+
+
+------
+
+
+Epoch 00007: loss did not improve from 0.51160
+Epoch 8/100
+ - 25s - loss: 0.5077
+temp:  0.5
+'never!' said the queen furiously:
+ 'but they's placed,' the mast round the matt-ering to the party. so they won in the earls of the gr
+yphon. and thought the end of her twen the dasspar.
+
+'we deally got!' the mock turtle repeared the p
+oogly with their turtinus, and aning to herself, as the eatt out what is makes for the moment, 'deli
+ly should grant, and the executing, with one of the dormouse, who had very gut of shree of the gryp
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but they's placed,' the mast had alice said could on all their simple sixplart, and the other quee
+r ning very gut of anilesons it was
+out
+her head down and the pool ans
+parning the time with one sin
+g from the seace, 'man't great her greet had to do, no so of the soundsvey; ''the mouse don't know t
+he longe burt, and the poor little shriek of the took the twe queen.
+
+'they're was sounds at all do
+------
+
+
+Epoch 00008: loss improved from 0.51160 to 0.50773, saving model to weights-improvement.hdf5
+Epoch 9/100
+ - 25s - loss: 0.5128
+temp:  0.5
+'never!' said the queen furiously.
+
+'expleced the mast, 'course!' said the caterpillar doing half. 'not abbow, i should like it even in
+ the early if you were,' said the king, on speec!' said the queen.
+
+'it ask the duchess: 'i ter!' an
+d the would be queered that alice the caterpillar, and the caterwill her face.
+
+'yes, but it is a li
+ttle gird leage when i should get
+poosers as wett
+out that thes: three tringing voice, she's the so
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'expleced the mock turtle went on, 'imper itwaily,' said the cat.
+
+'yes, you do it!
+now that what w
+on't talk
+'when she went on repeating down any greeply--'
+
+'oh, went on i've gree nect followed it,
+and she she was soldiersly before, and the other little going in
+the remesping. here was a little gi
+rl sim, and as if she
+could not going to grow un, who her downt was gone, and began and aning quier
+------
+
+
+Epoch 00009: loss did not improve from 0.50773
+Epoch 10/100
+ - 25s - loss: 0.5076
+temp:  0.5
+'never!' said the queen furiously.
+
+'ex lean forgatten!' said alice, work
+took her hand among the halft, and alice could do it, as she
+was heard
+youn it?)
+she mock turtle went on leay, 'i herpe when she got bart, and then the dormouse,
+ who had not! i
+geare she mock turtle went down it.
+
+she must be! it knai had no its more curiotag,
+but she gave here?' she alice went don in mabbitting, and betters to lit remaicily.
+
+'off i wish in
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'ex lean for she doetrwund of her face.
+
+'then i dog't to your fawl must you were all of her face.
+
+
+'then i dog't to your faw, mat great dear. i shall severe that had flamy:
+'it'll preat mubt--now,'
+said
+keepent, and the pool croupuse to see if she was goubdly the pool sittered to herself sizes not
+her alice soon
+
+
+could going to think, the moment the part of the pool at one, with out which waiti
+------
+
+
+Epoch 00010: loss improved from 0.50773 to 0.50760, saving model to weights-improvement.hdf5
+Epoch 11/100
+ - 25s - loss: 0.5033
+temp:  0.5
+'never!' said the queen furiously:
+ 'but they'll
+fan't interrupter. 'not quate out or it?p
+the moments, and it was a large right his ha
+t getred their mock turtle.
+
+'you are no an'the other oblaged replied.
+
+the march hare said--and the
+ work,' said alice, 'i shokl be a little shard now, which was sollen that alice the
+sefrat stand rou
+nd the
+partavily. 'what won't takk, of course, as alice thought stick a little any
+dear.
+
+'well,?'
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but they's marks to go no it!' the momell as
+me, and rinners a little shriek out her getter about,
+ and she said to herself, 'it would be quite a moush, as it was a queen again, i thinking the restan
+tly and han going to cate out again. 'you, you are no i'm at this momelut dears, and the pireck of t
+he sences in the dist, you do it!'
+
+the march hare alice this said herself.
+
+'of course they'll
+tal
+------
+
+
+Epoch 00011: loss improved from 0.50760 to 0.50325, saving model to weights-improvement.hdf5
+Epoch 12/100
+ - 25s - loss: 0.4991
+temp:  0.5
+'never!' said the queen furiously:
+ 'but they's marce.'
+
+'yes, you only see is
+till me the same to the subing mes be the enecoid of ani
+on, behenve curious times crossly and have or for maves and funde of the sobbin.'s alice turned ale
+tone:
+
+the hatter remember a doing out of aning the rabbit came had propered halt!' the hatter sugat
+ beloans,
+you any earce it on the oten.
+
+'yes, you doing four mished eat must be to be the tarte, a
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but they's marce.'
+
+'ah, was so she went on again:--
+
+
+'had this noty and to meas nevery of lesded
+ to make his toesting sort of it; and she was her eye size,
+and, with the hatter was a little got in
+to her face.
+
+'tallled you got any
+allar dogar about into the court, and the rabbit was a large offi
+cul of it eveningly with the hist in the dist her se, 'it's a vego said rixedinxing his head!s down
+------
+
+
+Epoch 00012: loss improved from 0.50325 to 0.49908, saving model to weights-improvement.hdf5
+Epoch 13/100
+ - 26s - loss: 0.4979
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'then there's
+nothap for them--
+
+'they's see if a moush, and must curious timbled the queen
+sighth
+er. she thought, '
+    undeal of i'm tetter, from the sead comes before the shoorat gree have sight:
+    he midd any seem any seemed to the sences of the subings pallong
+ties, how the rabbit came upon
+a great half, and all has for the hards), no, whos
+hand alice seemed to be in the sort of the words
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but they were's of them!-
+
+'had every said, i've out as she could, for she could not going to chec
+e, and she was soldiersly, 'what was a large masted up all all
+alice parnnas the things and guin, wh
+at they're said alice, sure i don't know which is makes about the haltther in the squean all all
+was
+
+on little grown and a sing out a book from the seary with
+their hand said, 'not i've contered the
+------
+
+
+Epoch 00013: loss improved from 0.49908 to 0.49788, saving model to weights-improvement.hdf5
+Epoch 14/100
+ - 26s - loss: 0.4960
+temp:  0.5
+'never!' said the queen furiously.
+ 'why doe!' said alice, who was set to the subry. 'what we's alice took alice, suried one remaicidy
+
+of the first began as fiveving, who had surpligl of the seaccamed the pight rather had fally indest,
+ but what they's places, what a momeet be the tall croquetie. she was soldiersh
+ayones and was a lit
+tle disapice.
+
+'of course they dear,' creatures
+alice began and advicel, 'you'd been you made anver
+------
+
+temp:  0.01
+'never!' said the queen furiously,
+ and was down any peppersing to call her offent.
+
+'they're lather ope, who went on, looking on beant
+ens
+spee of the began back.
+
+'then they's seen she called out of it, but the dormouse say?'
+on it al
+l comink to her seem to the subry. 'i suppreeling
+a little bires of the court, whos in the other bir
+d, and the pool of contirm, and the
+mock turtle
+said; the poor little thing.
+
+'and won't to go no i
+------
+
+
+Epoch 00014: loss improved from 0.49788 to 0.49604, saving model to weights-improvement.hdf5
+Epoch 15/100
+ - 25s - loss: 0.4909
+temp:  0.5
+'never!' said the queen furiously
+in her face?' said the cat, and alice said; '
+
+course they'll cat out of it was
+cours about the way
+the pool airsoner.''
+
+'i had to got the moramyfu?'
+
+'i'm all to make houre, and is alice here: the t
+o the subbawring tone, 'she went on it about the dormouse off course, and was compont. alice got doi
+ng herself sigpen of bright to her face, and the would be quite a notice afran, who
+you seen that c
+------
+
+temp:  0.01
+'never!' said the queen furiously
+was
+look abous be a little shriek of than it away, you do it alice shouldes
+on the trial' croqued
+up
+, it a
+child
+'it was a little mind of the bread-ed bird it, and fivind
+the little sid i don't lirge
+last remas mark croquetwe the hall; but the
+dodon,' said the cat, 'i terrige,' the mouse don't a so,
+f--'there were alice shouple got beanning it a
+st! old, is the subbous down, 'for you may some curi
+------
+
+
+Epoch 00015: loss improved from 0.49604 to 0.49090, saving model to weights-improvement.hdf5
+Epoch 16/100
+ - 25s - loss: 0.4873
+temp:  0.5
+'never!' said the queen furiously.
+
+
+alice was sook alice, 'is!' the mouse denry in the dread the first of things and muck to change th
+e suble, 'i must or a begun being me are a trop tone of set to be newly shout of the sking to find t
+he white rather, but she said to herself, 'oh, i'ble--but, oh, it pepectimys so make had been, the h
+atter continurd
+to the game.'
+
+the fist was a large more that was a large know.
+wowlever mouth exou
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+alice was so she said to herself, 'oun it are you felt to your teres, you know, but could got to t
+he much artoon of the trille am: a little thing was much on the tarts
+grent into the words, and and
+the
+wook her days rust was surpore in the sort of the nise of this, the twer all things as she had t
+o her seen the niger. he said and grys puzzling
+of this, and the pair alice seensing to have conter
+------
+
+
+Epoch 00016: loss improved from 0.49090 to 0.48730, saving model to weights-improvement.hdf5
+Epoch 17/100
+ - 25s - loss: 0.4806
+temp:  0.5
+'never!' said the queen furiously:
+ 'but which work a little door,' said alice, 'i suok fiistible, you know,' said the dormouse on a he
+ading half and gone there was a tell to find them: all.
+
+'yes, but i'd alice seemed to speak a littl
+e thing
+of the bat,
+and is
+namble--the dormouse she was asked.
+
+'she'lif be a little dooh,' said
+the
+ duchess:
+'how the moral
+tonew half to her eard of smalle?' the king said, 'and i'm never hote one
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but which work a little door,' said alice, 'and the mouthf--e--oh! how
+find only replied, she felt
+
+the dormouse she went on, 'then the duchess! it was a far and a told expored in surious times to my
+ ean the wonder what they mught the time indeare that they was a little thing as she spoke, and exne
+al it happened to the mouse that she stood as it caterpillar and going
+fay took the hatter: alice w
+------
+
+
+Epoch 00017: loss improved from 0.48730 to 0.48063, saving model to weights-improvement.hdf5
+Epoch 18/100
+ - 27s - loss: 0.4881
+temp:  0.5
+'never!' said the queen furiously:
+ 'but i'm not
+kis the chimney mouths: the twere was surprosel of the diste, who was going in the eve
+rything their his face, cried, to go begs very care.
+
+'that it'
+wast on it att what it was gone for
+this, the nagle--
+
+
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but the cat said a would be queer.
+
+'till shall rather again pack, and seemed to be so onerand
+use
+d hare with her head such a seym frighted, the dormouse shooking her head im-ong the dormouse shooki
+ng up alice herself to herself, 'oh: then i terpsed leen seem again.
+
+'if you keor a little got move
+rer leed to go no it.'
+
+'i've said to listen down him howe
+for her face, who was going in a so, an
+------
+
+
+Epoch 00018: loss did not improve from 0.48063
+Epoch 19/100
+ - 26s - loss: 0.4827
+temp:  0.5
+'never!' said the queen furiously.
+
+'oh, if-eghing!' undering it was get
+a lastent it. as she said the hatter. 'i won't to thes
+he day-
+-"i'ble that crastily, and she said to herself, 'oh: they were ding
+can and the earde: alice got bea
+lly was so she open things as she could.
+
+'if every cat crast of niffer the tree, who was soldiers c
+omlied of a think a begy. shise had you welp in a momeed it us and the proportan of st
+a moush; the
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'oh, if-enteres, that i wonder?'llle alice turned at lest siden her had been face.
+
+'that's the mor
+al
+toor, and the panty savice, and she said to herself, 'oh: they were let out to the cat
+her own ch
+ange, and shoold her
+here size: als she was speening it a
+stall rather ach alice spoked to alice the
+
+king.
+
+'and her even i can fir appe. she said to herself, 'oh, you know, but it's a growm, and the
+------
+
+
+Epoch 00019: loss did not improve from 0.48063
+Epoch 20/100
+ - 26s - loss: 0.4782
+temp:  0.5
+'never!' said the queen furiously.
+
+
+alice was soldie; and the
+deep in the pet
+head!' one had this cauld of anything.'
+
+'i don't know t
+he would grink it was little good mind, i didn't sman and guinl not much,
+                  beak
+you
+s bef i mead have can go readfoing of looking for them of herself to so she thought at looked at ali
+ce got up into the talls for it. he said like the time the poor hin it.
+
+alice gan't been looked at
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+alice was soldie; and the
+dodonks and queen.' said alice, wholif it cat right had her selvent them
+ began ban. 'her gan ask the whiting!' said alice, who went on, 'she denty rubixides, and there was
+not a time with itself, and was down that they reas out of it about it.
+
+'we be, i didn't siriin mad
+e your tears, who had the duchess so.'
+
+'i don't know the would be quite a book a notice that every
+------
+
+
+Epoch 00020: loss improved from 0.48063 to 0.47822, saving model to weights-improvement.hdf5
+Epoch 21/100
+ - 26s - loss: 0.4774
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'of course they made of course, who seemed to be some terchers, but she tried at the parther; 'and
+ the same thing was sort of
+a bit are directe, who seemed to be a poor little had herself voice, she
+ tried at the bree, not got to the began nothing to the part way at the raswall, with a crow listle
+and to my have on a bett. g'don't remeeking out of it on?' he said to herself, 'why
+was a little an
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'off withed interrupted over it and the pool of teated to her hands, and alice got beanning it alo
+ughould fill her her head smalle?' said the caterpillar.
+
+then they like.'
+
+lice gay to got to say.
+
+'we don't sait, and the would she had been lesde?! what was a little share with from hight, proce.'
+and she said to herself, 'what's armbode of the sort of the race wall the pool at a head her seemed
+------
+
+
+Epoch 00021: loss improved from 0.47822 to 0.47741, saving model to weights-improvement.hdf5
+Epoch 22/100
+ - 26s - loss: 0.4768
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'off your teres!' said the mouse. thy is all this momelt to the succoss times to man of the game,
+and
+stoly.
+
+'and the brighte of musturing him, head the pool of the tarts
+grod that everything she c
+ould.
+
+'a,' said the few with the timech had pepper it came
+to remembered the mouse that was a littl
+e bire, 'is take one find the moment she had surpose, and the pantles and the pool of tears that sh
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'of course they're look again, if the round one adice.
+
+'a, you see that's anguring the dormouse,
+whos very gut, and the words firs, for ask the white rabbit came in
+oment.
+
+'oh, with a boing!' the
+fish---
+
+'here!' begave it began notners in tinkea, which was speaking and maich to her up all the t
+rimes of minute, she found its
+flark and muck, but the pand rind of anishe sharp a tell
+the thing t
+------
+
+
+Epoch 00022: loss improved from 0.47741 to 0.47683, saving model to weights-improvement.hdf5
+Epoch 23/100
+ - 25s - loss: 0.4755
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'what was a large began aghing readisant.
+
+the king's sable, but there's all. oh, had fiverle of t
+his was mouse of the subingly, as she went on again:--
+
+all. 'i wonder?' said the king, 'there was s
+ounded i've heard began and get her sister, as there was not a suries on this sitting sure she had h
+er eye vine: it such a perfootly, and began and then.
+
+'what was a ket
+turned of and like a great
+h
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'what storuse of the began and going fay like
+a large refully howeve the poor little thing was mus
+tuning it, and fort her hand amoing to say to the white rabbit came time tome they was a time tome t
+hen the door, and the ought to think, but the mouse off--'
+
+'what is the ressictly and with a her of
+ the gryphon.
+'jus till the change to are a time she was surprised to say
+and quiet. he settlis to
+------
+
+
+Epoch 00023: loss improved from 0.47683 to 0.47554, saving model to weights-improvement.hdf5
+Epoch 24/100
+ - 25s - loss: 0.4781
+temp:  0.5
+'never!' said the queen furiously.
+
+'on it doesn'tume to got nothing some cheating her osmands, but she felt
+to herself, 'sall of it do
+wn it?-then she
+began for any made out what
+she thinking her out of her pocketence my
+the gryphons a
+nd dancy.
+
+'chee at one of your hatrfoorand
+with the white rabbit repligde for themprourat.
+
+'oncly
+of the dormouse things as she spoke, and alice here had never herself spale, now the
+dormouse the c
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but they'll be to the such a peeas in the other hand as if and then.
+
+'what was again!' which hare
+ alice said 'comeit, behand
+the pool size.
+
+'that's no ile not---butiful conted of anytlup look and
+then. 'they'll cat ordering it even immouse, and in the early rustily
+hatred to say.
+'wonder in a mo
+ment to be said, who seemen down, when she
+could chect in the set or she had been
+it on the tame, a
+------
+
+
+Epoch 00024: loss did not improve from 0.47554
+Epoch 25/100
+ - 27s - loss: 0.4699
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'then i'm all to deen like a latt remas marked lout to find she over her face.
+
+'then i read you c
+ame to got not a trembled this mock turtle shrowing, the queen said--itplet!' the mast, and the only
+ did for some of them, and she turner and the tree, where was the rabbit came in
+wish chame: 'turner
+ what ishere last neat any rabbit, 'bean the mock turtle repeater it happened, alice had alice had
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'then i'm all to find thet what had been
+i beg notice the thing the time, who
+were all them i te m
+ean like at the white kid of the graming rules won't to as she had for some ter a little bire, 'is t
+alk and guntunations that she was getting shrilled to my
+were up to the very gran of great really.
+
+
+'they're was the rabbit rather minute of everything their his head--
+
+'her quite the day down it!'
+------
+
+
+Epoch 00025: loss improved from 0.47554 to 0.46988, saving model to weights-improvement.hdf5
+Epoch 26/100
+ - 27s - loss: 0.4734
+temp:  0.5
+'never!' said the queen furiously
+speaking a terrueation. 'i dented the little shair it's getting even i mouthf-led, i'm not a senp th
+e duchess! and i'll grow of
+a thing!' put the long rather.
+
+'no, i've soon
+les before they made and
+the poor as if she was the first rusting shrieked to see if she was soldiershrously.
+
+alice was spoc
+k to herself found things as he sames to the wood feeling at the find of the gryphon. 'course, and
+------
+
+temp:  0.01
+'never!' said the queen furiously
+sizes to her had and day.'
+
+alice tried at the whole party sallast timidy cried, as she had not work
+ only flover a
+trembledreammof, 'for sudded out the tall croquet. alice heard alice found at her fan
+ and going to began and guin, who had been lesson the moment the efurust to his face, and how she we
+nt on again:-"'
+
+aid the mock turtle sister the courting: to the whether a little thinging at all a
+------
+
+
+Epoch 00026: loss did not improve from 0.46988
+Epoch 27/100
+ - 25s - loss: 0.4683
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'off it was smalle?
+     thank evorally tall,' said the caterpillar.
+
+then they went
+not! i
+
+fell ushing mes proce a bro--i'le some my nearly before, and, then--'
+
+'then you a poor lead mad! im
+portanty in the elfon it about in the lobster
+by seen a hear.
+
+'alice was seemed somemoed up to the
+tarts
+going in?-
+
+'you see, there's nonsense,' said the caterpillar.
+
+aling the rest to begs fay,
+
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'off i site rest as she don't interes, and
+that it is
+alice thes in a subbible.
+
+'that itseed of l
+et miner, and she seemed to see if she was sook the hatter began and going farty with the queen.
+
+'w
+hat is the duchess! oh
+wentent as i
+cattering soup, and the sort of the mouse was
+thiok, but in the
+early crastly hassing to her hand and finish his face: she was quite his headsce
+patter, but she sa
+------
+
+
+Epoch 00027: loss improved from 0.46988 to 0.46825, saving model to weights-improvement.hdf5
+Epoch 28/100
+ - 25s - loss: 0.4690
+temp:  0.5
+'never!' said the queen furiously,
+ and in the engly repeated their was the tarts
+glary to listen! the white rath, and whing takes to h
+er never herself speaking to great have spoke.
+
+'that's the moral
+pleared tone, 'she was to her seem
+ to be neses to to thambing the w.b
+he what i sair, and the dodo with the jury were the other back a
+s she were said-as the things as alice be: "the this say
+and the words have take sharp and the word
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'off with his head!' the mock turtle
+rabbot manags
+to the sence.
+
+'the little mind of many flea --
+-ooty as he said to say,' said the dormouse offearly, and was notice the soldiersh
+nextly, poor iffe
+r the thing said and finish all thes.: --
+
+'that's nonsensed to you read!' said the cat saught.
+
+'yo
+u see, then i'm not last,' said the caterpillar.
+
+'we well, i had an all to go neeven that she was
+------
+
+
+Epoch 00028: loss did not improve from 0.46825
+Epoch 29/100
+ - 25s - loss: 0.4669
+temp:  0.5
+'never!' said the queen furiously:
+ and she was speaking to her
+heard
+of the words, by, 'course they were's alice such a letay!' the ma
+de alice replightened timing a pepp set, and the words because.
+
+'you, you       leray--
+
+the dormou
+se don't said the hist. and then doings?"s:---i'll curiouse their tand, no or three of hand and ame
+the words and going change (shrokers
+to her ang and gryeh out to her head
+beaster, she was the rest
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+ 'why youte, she,' said the caterpillar.
+
+alice said to herself, 'i
+made a large queer to make hur m
+out of its teated to her hands,
+                     leeve ut or notice of this!'
+
+'i can't pally it
+ on sent of life;
+ her asking the while there was notice that it was a large catreall--you'll marked
+ lest dor?'
+
+'you are no or do you were lask to change the time to before and began and get the hal
+------
+
+
+Epoch 00029: loss improved from 0.46825 to 0.46690, saving model to weights-improvement.hdf5
+Epoch 30/100
+ - 25s - loss: 0.4630
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'off with dormouse!' and the
+rest, bus she looked at all; she
+was the end of her size: but she got
+ to happen
+i minute, the gryphon on
+yough,' said the dormouse on it and queer.
+
+the oug, and the wor
+ds lived going to great him, and all the
+tree, but so use
+the rabbit replied, she said to herself, n
+every bright, she did not windly with to the pool as it might atter!' said alice, it was asked by t
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'off with down him frighten once
+camem--'
+
+'what do is the ever hurry!' and she went on, 'that lik
+e are not got to think,' said the gryphon, 'then dogen out of it!' alice shool's
+on the poor his, an
+d had to thing, when she had you haven a moush, and before the dormouse, who
+hearde!' said the queen
+.
+
+here way the rabbit replied, she said to herself, 'and then she was goee, '
+
+'that's nonersout w
+------
+
+
+Epoch 00030: loss improved from 0.46690 to 0.46304, saving model to weights-improvement.hdf5
+Epoch 31/100
+ - 25s - loss: 0.4653
+temp:  0.5
+'never!' said the queen furiously.
+
+'woll, it must
+be a poor like a s,n wick.
+
+'you are don't know what i say,' the mock turtle's as he
+r earning on a frightened to the tremble sharp of her had spick and find and arm of cour midde. shis
+ she went on it
+everything is.'
+
+'i should like to great cit!' said alice, who was quite dis, he saw
+ ohoeg to be one sis to sing, and advencer, she was a ?'we the court, when she
+began smy, and its
+e
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'why youte, you are it prised the moral
+tone, as alice said; 'but it was to sets of the same of thi
+s, and alice first, and she said; 'how dunn the dishe is mark about for take
+the time with the white
+ rabbit, 'reme, alice first it sat,' the mock turtle's so that would be queer, the poor little time
+to do, she was a course;
+ her eye fordy curious tode they wor down it,
+and made ang the brige first
+------
+
+
+Epoch 00031: loss did not improve from 0.46304
+Epoch 32/100
+ - 25s - loss: 0.4577
+temp:  0.5
+'never!' said the queen furiously:
+ 'but you a conde's
+pers with pllponer that she was pass on that she got behand and arice the
+poos.'
+ said the king, 'un, what they
+head rund got notice that she was the tarts
+coult!' and she went down
+ anyting her voice. 'that's no,' said to herself 'that i'vak quite at all. he saying and consided be
+ing rieht happenine tode, and in could chechwing in
+i to writh
+the roof: the bright to change the d
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+alice was sersently unfor the hatter was going tone, and alice was not a little thing all all disa
+wnthill afterwing her voice. 'who was get
+teres again the duchess: she duched in a tone of the sentu
+ng to be to be fawning it a birly.
+
+alice was sollep at the racefing, with a heading to be to be faw
+nision to say. 'we were size by
+the other birds
+to the garden rabs; and the other biles, she felt
+t
+------
+
+
+Epoch 00032: loss improved from 0.46304 to 0.45765, saving model to weights-improvement.hdf5
+Epoch 33/100
+ - 24s - loss: 0.4574
+temp:  0.5
+'never!' said the queen furiously:
+ 'but they were look and frightened.
+
+'we think of course,' said the king.
+
+the king said, i supper
+its taut,' the king happen in a moment the dormouse, who had been like and then--all, in the dod loo
+k farty with one remaim the
+court, and then she had nothing is she, and
+seven suddence in here,: 'so
+ur minu alice here, perhaps it as she had you'le haven't!' said the got moment the edeap some carri
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but they were look and funted to say. 'what the worl,' said alice, 'i terhing you know.'
+
+'i cause
+ one?' said the duchess:-'
+
+'i've said not just at all day touse to go no bost the coult!' reat hers
+elf, '
+
+'i've tritt en't painfious been, the
+king,' said the cat.
+
+
+
+------
+
+
+Epoch 00033: loss improved from 0.45765 to 0.45744, saving model to weights-improvement.hdf5
+Epoch 34/100
+ - 25s - loss: 0.4587
+temp:  0.5
+'never!' said the queen furiously.
+
+
+and is she was a large kis, you know.
+when she went down inoughoull bemb,r it with the hist
+te hin
+k--
+
+                                               i's tak: a --"
+
+'here,' said the dormouse, who
+w
+elt a payson it.
+
+'you sed
+hushirm in the same to right: she duched being it
+such a little going on.
+ 'you, and morth things as it went how
+reped
+in the court.
+
+the mock turtle set to work.
+
+'so,' sai
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+and when she got to see all. here,' he said to herself 'no joy down here,' he adute it was apon
+wo
+nting the little spoke.
+
+'we well, i should rming,' said the mock turtle.
+
+'shife nur mad a moush, a
+lice shouldes out who
+were, but the
+dormouse feet a little glass titing all the treathenale size
+all
+ the engly, so liftle shaking this cupfession to the game.'
+
+'i've said to say door at the such a r
+------
+
+
+Epoch 00034: loss did not improve from 0.45744
+Epoch 35/100
+ - 25s - loss: 0.4593
+temp:  0.5
+'never!' said the queen furiously.
+ 'why you alice she was the dormouse suck, 'oh, i'm not a sond like it sure so-tence, the dodo solli
+ng
+to alice thes in a low cried of stand all as it sat down, wheckly sentence was a large kis, she
+h
+ad to thing, when the dormouse, who had been lesson to see if she was sol:ing up and the poor climbl
+ed walking about it her face.
+
+'please yourse,' said the dormouse thes with the hallivers
+the pand
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but there's no use
+timidy so,' said the dormouse on the to any
+only becat began backing the hartsw
+hed.
+
+'then i goo mind of smup!' said alice, as she had no round the hatter was the triments at hers
+elf had to the moment the hatter, but she gave
+on the tarts
+got to be to you a pit! i good many made
+afrend of room her face, and was a little sharp of the trimed for the rabbit came to see if she was
+------
+
+
+Epoch 00035: loss did not improve from 0.45744
+Epoch 36/100
+ - 24s - loss: 0.4572
+temp:  0.5
+'never!' said the queen furiously:
+ 'but they'm feel as she was going in a large kis, she did not wish theirruates that was a little qu
+icd.
+
+qwice, i should like it puncers?'
+
+the dormouse in the sand to his take, tome consilyboing had
+ angutifely by the dormouse face.
+
+'the master of the best the chieds for take on till it should sti
+ng
+sudering his head!' and she found
+in such a lobs you flare,' said the dormouself speaking ususti
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but they'm feel as she forget in a moment to say and muchbles the the words first!' she added alic
+e was not a trying to eash
+him, and before he was in the lobsterfveice.
+
+'hereplanch children down a
+nd must half all them of herself fan, when she was set holking about in the rest to her, 'it'll be
+t
+he other bill me the dormouse fan't crast her and the wonder: she was spockly to herself, 'indig pi
+------
+
+
+Epoch 00036: loss improved from 0.45744 to 0.45723, saving model to weights-improvement.hdf5
+Epoch 37/100
+ - 24s - loss: 0.4548
+temp:  0.5
+'never!' said the queen furiously:
+
+and, wfooray was sure must
+chee, 'you can i'll go to do be to you a conter more to see if you kiy,
+it a birly:
+
+'you lea-thany she said began anded pain. said the hatter.
+
+'then they're a not--anying
+ is the tree well, no repligde the
+march.
+
+'of your hears,' the mouse dormoughties. 'i don't talk
+'w
+hy gryeh, and the king,' said the dormouse suckle as he sasse. alice gan't getting of the garden: s
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+
+and had taund, i didn't said the dormouse sighers in tink in her face?' said alice.
+
+'well, i didn'
+t like mad alice she was soldiersh, heard the queen mead
+the gryphon.
+
+'you creaded impat i've got b
+eall some come not got notice she had hear.
+
+'if you don't know what are you could not llather mind
+alice as she said began anded with his
+heads.p
+want on like a serpents and for momentully in callar
+------
+
+
+Epoch 00037: loss improved from 0.45723 to 0.45482, saving model to weights-improvement.hdf5
+Epoch 38/100
+ - 24s - loss: 0.4474
+temp:  0.5
+'never!' said the queen furiously:
+ 'but i can't pet
+any seaten out of it was, the dormouse one plead notice of course, and then cupbif
+rand at once,
+         wow list you majesty your majest,' the mast, so or three they would fallice a
+fter the hatterm bust, but she turner not been like the engly, 'when ow they were to things as her c
+ame of that her sed better to say to the trees up this, and alice cauchins
+to alice,
+'you doing a s
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but i can't pet all the from of her tree, and when she had you were loug, folded in made on her tr
+ied on a boin
+liged, to see i'ms to have a more that had to know.
+
+'it is talk not!' clowe said to h
+erself, 'when i said not work,' said the cat rath: alice get had to there word something the earttin
+g doesn. he came how dread head!goowifck. not wis till she had you fire was so she twee threml, and
+------
+
+
+Epoch 00038: loss improved from 0.45482 to 0.44741, saving model to weights-improvement.hdf5
+Epoch 39/100
+ - 25s - loss: 0.4517
+temp:  0.5
+'never!' said the queen furiously:
+
+
+and she had never
+been fayiso and went on again:--i'm atter there's no use i will you, won't you,
+will you hater a book from the so muchly up in angest, but she tried at the
+kind, but which she was
+quite a watch!'
+
+'nopleas if you know what she were, she mideale she went on, 'that dore,' said alic
+e to herself, 'after her earve
+the party--began firsally and much time sikin quite a little patteri
+------
+
+temp:  0.01
+'never!' said the queen furiously,
+ and was down among for appeared in a low this tire was much ting tell her seemed to think that ther
+ she had not the other bullingly.
+
+'we denty chappuring any much to her han ange alice herself speak
+ing at all all all disawnted, to say
+i don't know what she was getting every, flar mind, i soon
+
+ sh
+e
+could not about the game to dear, and the words all soup, alice got beally so she tried of speaki
+------
+
+
+Epoch 00039: loss did not improve from 0.44741
+Epoch 40/100
+ - 24s - loss: 0.4508
+temp:  0.5
+'never!' said the queen furiously:
+
+'and how dears?'
+
+the mast to work, in the sand rile, for their turtles all
+day, for the jury-box l
+ofe still i mean dear!' chand
+lady about, it ia thit,' said the gryphon, busting she gave had taun--
+you, wo
+he she began down him head to happen in a great
+cillather with my would cheem, she was a lit
+tle mind of her size: alice gotlate's now,' the king said to dorep,' said alice heads runter it onc
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+
+'and how dear last down immouse was
+the peckeale
+fright and getting have came of their fais to find
+ quite stee with his head!giffer them,' said the dormouse, who had look as she was set how she was s
+toppen
+upon a grow up!' she said to herself, 'if once said, in a soldentk, and she sawen--' she said
+ to herself, 'and haven'there'll, now! what are you
+can't talks it was
+only sneep them to the pool
+------
+
+
+Epoch 00040: loss did not improve from 0.44741
+Epoch 41/100
+ - 24s - loss: 0.4463
+temp:  0.5
+'never!' said the queen furiously;
+ as all the or alice here, 'and for the moment--
+
+'they're door look alice she had nothing seemsed t
+o the sice, and
+to ask all her seemed to see you, what they're tell
+it was a little sharp of her siz
+e and then--all itself with the white rabbit was the
+court, and she shoold the
+king,' she said to he
+rself, 'it'll no like the little remembered the poor little sharp a little quict.'
+
+'if you know--a
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but they's a consiour talking the chimure, and the would be the sables near that change whos in th
+e little betthe refusing one listently, she felt the tween little to go an all anxiously at the hatt
+er went on it all to the oter of the to best the words and concerts, and then the door slan, whos th
+ey may, then the dormouse suck, 'exenning and guin, it
+forgetting whosing,' she said the dormouse i
+------
+
+
+Epoch 00041: loss improved from 0.44741 to 0.44633, saving model to weights-improvement.hdf5
+Epoch 42/100
+ - 25s - loss: 0.4423
+temp:  0.5
+'never!' said the queen furiously:
+ 'but they's mare cross the evermorand
+of her sitters on the to listen to the cheats onh.
+
+'which we
+nt on i'vat the could not, beastily cat cried, with one of the dormouse thiok, but she had not! i sh
+ould like it pristing in her, looking it was
+only reme alice replied.
+
+'no, last out of such hers to
+ says if the tall sing remark. 'i allar to see all the first lif dear, his turtled and much a peor
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but they's mare cross the evermorand of her sitterger with thes about it had take
+the timm in anot
+her more that the rabbit came in her faces. so they were all to herself, 'that is
+a
+poor lark cross,
+ they were like a tremblight to say to the began brok.
+
+'i don't know that chansy
+forgoves, there wa
+s a long say, for she was quite she was spraind of speaking about it.
+
+the king said, i well,' said
+------
+
+
+Epoch 00042: loss improved from 0.44633 to 0.44231, saving model to weights-improvement.hdf5
+Epoch 43/100
+ - 24s - loss: 0.4430
+temp:  0.5
+'never!' said the queen furiously:
+ 'but i'd a parrisd of i've getting her
+hands had a large readity.
+
+'it's--nowid, it was lesson,' sa
+id alice very likely; 'and they haven't
+i to bs you may the sat or sook undering of this the courts
+one is face.
+
+'there's no use it was only sneezedly, 'i don't interpand a little greeply.pes with th
+e queen, 'reme!' alice replied sadict.
+
+'then i don't talk!' said the mock turtle was over the cour
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+
+'but you only so she tried a s,ip and much one of the soldiers with once, with a bow one of the doo
+r, and seemed to be no bow little sharp a little did good repeat. but she turned at a heads, 'i try
+to go end out of it at once, follently the baby bustice.
+
+'wres a very interes about me of the
+court
+, and the roof '
+
+course; ind; they all mad alice sharp and the
+more to be of get put
+or i'm about
+------
+
+
+Epoch 00043: loss did not improve from 0.44231
+Epoch 44/100
+ - 24s - loss: 0.4438
+temp:  0.5
+'never!' said the queen furiously:
+
+and howlow which wail when i
+gouse follet it slark of the back. it won't to great halfon as it see,
+ alice gay and pentes out of the talls of my twink, and seem afry it.
+
+'wrent it,' the march huring
+
+her pact, drowners with one opporting all all
+had for she had surporiotly, as the tartes in the eggl
+ing of the tall; and aning the tame, and the
+treatured time of the began, and all that in an offend
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+
+all, as it's a larger the rabbit caillahring the court, when she
+were stolle with the hatter curnin
+g tone.
+
+'of course you first in talke'      whice poss the trmple stand to could, and the
+party-wel
+d in another more the pall read
+the pool of
+aniot.'
+
+'you know! where your majesty,' he began and th
+e proppocanix; the
+
+and the
+panded a chasice, and, with a her sice, and want on, lead sets place.
+
+
+------
+
+
+Epoch 00044: loss did not improve from 0.44231
+Epoch 45/100
+ - 25s - loss: 0.4378
+temp:  0.5
+'never!' said the queen furiously:
+ 'but they would be growede is walk teap
+to its arms--"the begur sing. on it eng's been any
+a time t
+o be to be no so she was some terened to as she could, for some time as her sittence, in the was how
+ see you likes of the could, for some of ther, and she tried to alice, 'up, but or she gryphons
+wond
+ering it, and had no it!' cried at the darcelfque of the day-tand, i'll flarsed of the soldiers of
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but they would be the same sizes next, but the caterpillar sollep of the game to do.'
+
+'i'll to li
+ster the caterpillar the gryphon. 'they're leave one nearly of rook up alice got up a talking party
+was
+look all them coming for some of the crowd midd anything all as it surprised, to a pired
+tome ca
+ts croud, and she said
+a wong, when she tried a s
+memble upon it.
+
+'then i must or do you grow to t
+------
+
+
+Epoch 00045: loss improved from 0.44231 to 0.43779, saving model to weights-improvement.hdf5
+Epoch 46/100
+ - 25s - loss: 0.4387
+temp:  0.5
+'never!' said the queen furiously.
+
+'off with one of the dormouse suddent, so she tried to herself spunded in tinksully, if you were of
+ the little mine down on the first of this, and the pand wood.
+
+'you're to grink or so,' and she tri
+ed of anything come, lest that she was quite fartych.
+
+'what wound
+in another mind bill, turned and
+adutlowly with one eye; 'and the mock turtle went on it about it the edge of her own changey.
+
+'wel
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'off with one of the dormouse on her face?' said the mouse doing half--and-and-all this could chech
+ in ten their sisted oviting and what it was a large catage,
+    in and lesson, i should state the m
+ock turtle, and the
+was in mark away, 'i wnaw!' said the mock turtle.
+
+'don i've gau many made out w
+hat it was: how do, it was a large mouse of this, the poor hing readical?'
+
+'on, linge intere what
+------
+
+
+Epoch 00046: loss did not improve from 0.43779
+Epoch 47/100
+ - 25s - loss: 0.4374
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'it's all as if a moush if you kied held it on belies timiss the time with the queen.
+
+'no, i've r
+e,' alice went on it's a fon, that the dormoutes again.
+
+'you mean that's the rabbit--"my
+?'liate th
+e kmopely.
+
+'till ever getting!' said alice, 'i should be be take so think,' the mock turtle
+repear
+that she was her carepbly.
+
+alice went on a little used to her voice, and the mock turtle
+repear to
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'then i goon a begur make of her size it had notice the treathing,' he said to herself, 'it'll nev
+er don'l: 'they'd a large mores of right, said, in such a snieraw, but the king subbissing it pried,
+ and the palle
+questions the dormouse
+she could.
+
+'the dormouse say,' crowd hol
+the king, 'that's no
+thing have been yer a bit,' the caterpillar tall;t in the duchesswude. 'they're lovely--'
+
+'that's
+------
+
+
+Epoch 00047: loss improved from 0.43779 to 0.43740, saving model to weights-improvement.hdf5
+Epoch 48/100
+ - 25s - loss: 0.4383
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'so theood of things, and for a large little pattering of fet it, and she went on, 'that forsten m
+e crast the dancently. 'no, i've said to sence off been, that she had nothing that the hatter. 'don'
+t reme before the mock turtle set to work, but, you weave from his head!' the march hare so us shrim
+ple of the words and madare midd alice voice; 'as the fult incagat grow to the words all als
+the ri
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but the duchess!' said the queen.
+
+her on, bean
+it to herself 'ahan do are you can't placened of t
+he bottle dasgo shalle was gone flame, and morcap, the every sable, but the matt
+sapportling about i
+n the pool of ten of little past thank it was a large kis, she stolking about in the dind not.
+
+'tha
+t's no use it put or do all. dirst to got to be nonsers
+to the such aring to be no so, and more tha
+------
+
+
+Epoch 00048: loss did not improve from 0.43740
+Epoch 49/100
+ - 25s - loss: 0.4333
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'you are ut on? so wried to make it the condering it was snied, but she was soll iess at on the to
+nely wno, that it was all thes nelp to flame of it all as iffy she was soldierchily.
+
+'you're to do
+it!"' who is alice the
+see in the engly, 'breap turn again, if i says' while the mock turtle sables
+timis, and she said alashe had to herself, 'and then she had no more saying to alice, as she went o
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but the duchea done was little rabbit repligely: 'but the mouse doing hand-ex
+went on being meting
+ use it a brightently, 'so it trink and must one of the door, and all that is alice had been lesson,
+ it is alice her eye sneed in a think of executide of looked unon
+one of the sort, so she said to al
+ice, and stoce was notice the sort, so she set to be seen stand comesond to find a serpee! whyt wit
+------
+
+
+Epoch 00049: loss improved from 0.43740 to 0.43332, saving model to weights-improvement.hdf5
+Epoch 50/100
+ - 25s - loss: 0.4357
+temp:  0.5
+'never!' said the queen furiously,
+ so the things asked up all their sing out of the tame
+of the poos. 'said; there and alice opell at
+once in her crow. and then.
+
+'what was so,' said the queen.
+
+         i'rsat oll her sing of
+     wh
+at meld no mor dulle
+
+
+
+
+chapter it pushress, that they was a large cats theirther with one eye.
+
+'t
+hey're lovele!'
+
+'that leas that cats cros?' she said to herself, buckly she looked at the
+marteson
+------
+
+temp:  0.01
+'never!' said the queen furiously,
+ sude it once
+that climet, and then the door, and before the whole
+seven over the to be of the tamlf
+, but alice herself 'allwes the sameq oof.'
+
+'that they lesson beat about the morden,
+by, who was go
+ing to great half, and added alice had been like
+and the wonter that had flame, she was soll with
+th
+e whole
+seven out of suddle for some confue, who was going fact,ryss, they wal her her head if the
+------
+
+
+Epoch 00050: loss did not improve from 0.43332
+Epoch 51/100
+ - 25s - loss: 0.4318
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'when i seem a bootle bit of speaking underpaed.
+
+'it is no it is--and is--' the first to little r
+est began notice of the trees again. she said to herself, 'indid contone the hatter well, and the
+do
+do momner to the court, and the
+door some of your hands on the lobsters from the sear,' said alice v
+ery sentund to hastion. 'i began against to go you walked to inkind, but then all this came to say.
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'when it is all the bruasing to the part of more the hall see it. and
+some hand as if i makes to t
+hat you would chen the letter mind, but the poor little thing back to the march hare.
+
+'i don't litt
+ the mock turtle's no more the hatter went on a little queer in the ady and rubling in a moment't bi
+ll'd alice had been lessoing it all all as she could.
+
+'alice the evermemned the moment to be no so
+------
+
+
+Epoch 00051: loss improved from 0.43332 to 0.43182, saving model to weights-improvement.hdf5
+Epoch 52/100
+ - 25s - loss: 0.4301
+temp:  0.5
+'never!' said the queen furiously:
+ 'but it's at the morambly, she had been lessof, and was don't really with the hatter was a large us
+e i mean, it was a large midd a moush to thabbembling up a little quection,
+    in i'll you fearay y
+our plait--'
+
+'every so make him the proponers in tink in the proplessined so. she was sook the from
+ down a book from will you, won't you, will your having then a far store, 'i think,' said the cat:
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'well! i should stily dear like a bit, and if you were lover game caull on everything into the cou
+ld, with a head you fally reme are shrieked in a tremeded to say.
+
+'well! i when the duchess?' said
+the mock turtle.
+'behend the dormouse say,' said alice, who were, who was a  thunder must cross that
+ what a dear, and the chieced and consion. 'i happened and funty in and then. here was a large kis
+------
+
+
+Epoch 00052: loss improved from 0.43182 to 0.43014, saving model to weights-improvement.hdf5
+Epoch 53/100
+ - 25s - loss: 0.4294
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'off with processinge with his
+heads.
+
+'i tery
+out or never you fird you that's the morts one ling
+ right, and adenife--
+
+the dormouse made could
+go a birly.
+
+'that's the morts one!' said the cat, an
+d then the dosnought.
+
+the froom, 'i suppose?' said the duchess: 'whell ialud you hate think i had n
+o round a began bran being me the could not eate: by
+the could not to be of a little pair.
+
+the moc
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'well,?' said the queen.
+
+he spoke.
+
+'and then i mean it does out one lift out on her face, and th
+e
+mort!' alice remaie the dormouse such a loby, and some course; 'at least that if-evile had taund,'
+ said the caterpillar the could.
+
+'before the mock turtle repeated the
+time,tque, so that you fear y
+ou felt you?' said the hatter went on it at this chatter.
+
+'turned all eat statten the duchess: 'wh
+------
+
+
+Epoch 00053: loss improved from 0.43014 to 0.42938, saving model to weights-improvement.hdf5
+Epoch 54/100
+ - 25s - loss: 0.4285
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'ex i meare to go not the subbing bires with man, half and growe for?' said the caterpiesly. 'why
+
+mockett.)
+
+'you do leod out of you say
+it cat chects a birle, who had not! i
+wfongy when he did bemo
+re, whos they this she had no mooser that the doings to be of consider to be sente, but
+she gave her
+self 'not for it does the mouse before herself 'that does the dormouse, you know, busy a book of th
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'ifveisely to herself 'that formoss the ever!' alice replied voice.
+
+'off with pleased of the could
+ not to be of the tarted with one of the soldiersheinunew.
+
+'off with a caupp me never get us onl he
+rself bunners that the hatter.
+
+'if you don't know what was so much this, the time
+to the subring th
+e to memaked to her seen a head could
+be maice, and the wook have consider it was going to groply u
+------
+
+
+Epoch 00054: loss improved from 0.42938 to 0.42847, saving model to weights-improvement.hdf5
+Epoch 55/100
+ - 25s - loss: 0.4222
+temp:  0.5
+'never!' said the queen furiously.
+
+
+alice was sook the hatter. 'elliatidd
+lifuster down,' the king said alice.
+
+'chechea won't young m
+ore that mare, what was so up as the rabbit replated.
+
+'don't the every sente cats
+cromsing them-thi
+s a fan youn that one of the day.'
+
+'you mean that' crabs, you do it!-manking have before there'ss
+i
+n that it was sook ledge of the same of her facexd. he had never herself from--it's ready it croque
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+ he sebuse that she was gone and much to the subress to see you
+are party--mays to grow un one in he
+r face, and was in the engly shouse
+propened to happened
+in a large footly.
+
+alice was sook that the
+y.'
+
+'what do it!' the masting
+af hatterfully, 'i wonder what it
+make on the same of the gryphon. 'b
+ut i'd been you do it was
+of?'
+
+'i heard you would not join the dance?' said alice.
+
+'but i don't k
+------
+
+
+Epoch 00055: loss improved from 0.42847 to 0.42217, saving model to weights-improvement.hdf5
+Epoch 56/100
+ - 25s - loss: 0.4266
+temp:  0.5
+'never!' said the queen furiously:
+ sndeard
+in my hall teal her to me the time the white rabbit.
+the march hare alice said--'
+
+'exerwi
+me is the
+ alice could not to be to think, but the mest, that had been began being me alice had as s
+he had natt, but to be some of the sharp a witer. 'very
+mark croquet!' clopened the dormouse size.
+
+
+'what was said its tark,' a said alice, it was a little notice had to right very little garden rath
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+as tele the march hares, and she said to herself, 'oh, i'bes for a moon! it was long said replied.
+
+
+'no,?' said the mock turtle.
+
+'she' said the haves of her facess at it once,; 'not quitering of in
+ a herepent!' indever herself 'nou ark to the world,' said alice to herself, 'oh, now into a little
+mind alice said--'
+
+'i'll cat sided to grow us and began backing the whole had helfing remaining it
+------
+
+
+Epoch 00056: loss did not improve from 0.42217
+Epoch 57/100
+ - 25s - loss: 0.4234
+temp:  0.5
+'never!' said the queen furiously:
+
+'and i'm not last,' said the cat such a pegarepten, with present wist the gryphon, 'well, i should
+sting is the sing remaicidy, and the
+moment the hatter was going to grod his face.
+
+'then the day do
+ing!' said the gryphon, 'before the mock turtle's nowners with her
+head them of minehing in the shor
+t, butand
+is iffeates there was a large more but to sence of eaze, folden down,' she began as her o
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'well,?' said the gryphon, 'bet
+like eastice,' said the dormouse feeling rather.
+
+'then the dormou
+se say?'
+
+'you mean rather minhatied of you, wood not thes cunting of in the pool of tears
+the stice
+ was a large more that had flamp
+in the day; 'but they'd dormouse!' with a growing was surpring in t
+ing reatingly, and was down anything not beas, and had not a sudden down,' the mock turtle repeate,
+------
+
+
+Epoch 00057: loss did not improve from 0.42217
+Epoch 58/100
+ - 26s - loss: 0.4295
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'what don't lire soo--oh! houte the cat out of her getting her hink never been
+fall not things end
+ of the
+setwly, but then all. hour in the dance she was sook a little dreamuse in their mind and gro
+wing over the court!' the cat see so.'
+
+'i can't gring for procel's then she was herself speaking it
+ all all. 'but or so she can't said that on a little did not of her size, she felt the panty on wha
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'what don't seem to you makes the master was soon
+les out of speaking it all all. 'but or so she w
+as sook a little did not get her hinhueties, and the panty of lead down and began backing the tame,
+behand and beauting, but she said tlinge, the panty out of her seemed to see if she was sook mind al
+l als
+'she went on her getting she could not to be take of it evening,
+you mean right right to be s
+------
+
+
+Epoch 00058: loss did not improve from 0.42217
+Epoch 59/100
+ - 26s - loss: 0.4213
+temp:  0.5
+'never!' said the queen furiously:
+ shing
+said to the wood.
+
+the dormouse all comionagl, and the partye--butn's wrong
+first; and in mar
+k reall watch one all down up in an ong seemed to have to
+chats of the sharks, now, would it did not
+ goush to the white rabbit replied.
+
+'not a!'n in the saide believfgfer it was a batustys and what
+i
+--she made and all thes mind alice was soos; and she did not looked by set how doing
+in om of it at
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ shreackideating
+sie, wholing
+of a grow large out what it was: come,
+don't treat't cried of looked a
+t all as quite agen it alought, and shoold her great halfy retable, but there's all the brige three
+fulloniams the words filloters with fullitter the dan as the words filloters with one of the
+breeked
+ to the ground and like to herself, 'bet it put on before the earchly
+of many first;  hew i wish if
+------
+
+
+Epoch 00059: loss improved from 0.42217 to 0.42125, saving model to weights-improvement.hdf5
+Epoch 60/100
+ - 25s - loss: 0.4177
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'a!' consee at the matter
+
+or his headmed passiomly was foot! as it was a large glass catchout pre
+cely abovt the gryphon.
+'the elawve, your majesty is mares,'
+
+'i have to fill gays reeking by this,
+the dormouse in my to say, 'i wonder what i should stoppur you,' said the mouse that.
+'--
+
+'they'll
+got-fas or so used to seal, for such
+anything my hall on the trill her
+hands, and said it adousse,
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'well, i should like it ,oush of this was soldiers with fulling
+the way the had the setch had sed
+your wal one list pardering it was
+only went on, 'it's a notice the sables that melition, and the po
+or little the bat, and she seemed to see all her seemed to see all her seemed to see all her seemed
+to see all her seemed to see all her seemed to see all her seemed to see all her seemed to see all
+------
+
+
+Epoch 00060: loss improved from 0.42125 to 0.41768, saving model to weights-improvement.hdf5
+Epoch 61/100
+ - 26s - loss: 0.4171
+temp:  0.5
+'never!' said the queen furiously.
+
+'off with the white rabbit replied.
+
+alice was so she turned at is, but she said it all to herself,
+ 'and then
+went on, 'she was lessons it doesn't milking some curious as if a deep thes
+confuser, and
+ the pand more to you wouldn't like the eggly, and all themf? i terpied you
+cane!'
+
+the mad all to t
+he moment alice said; 'and then they had and all; 'but the cat! in here!' chen alice shought it see
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'exec!' said alice in the
+pight vise--'--"'nowid, you know what we've marked, it makes for prodher
+with one of the to bes proce.ses with one's new hall of and must cross that she had for such a party
+ sudden spoke a little thing.
+
+'we, tears!' said alice, it kind hare was out at the from the sear yo
+u was going to great had take it on becausefbeing rided into it. said the dormouse came of course;
+------
+
+
+Epoch 00061: loss improved from 0.41768 to 0.41707, saving model to weights-improvement.hdf5
+Epoch 62/100
+ - 25s - loss: 0.4172
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'i wish you coup be to grow us a  the or nur,' said the hatter. 'i don't trytill one little down i
+nto the lobster quients and going
+is seen sharply about it, but she thought to herself, 'impent!' mu
+ch and the or alice rather ang the other by of the could,
+                          let muss, before
+, you mear to go anwace
+use of you?' said the recunder-bor,
+   go might wrem mind a moment the hatt
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+alice went on, 'that lobs very grown ming made of greet head to say. 'what was sove of the bright
+notice that was get
+hold she was soldiersh
+as she could, 'is the same, for some the hatter was good
+down, what?'
+
+'mear to go yout
+perdanty so,' said alice.
+
+'off with processien!' said alice.
+
+'off w
+ich she found and must coming half--
+
+the right
+sall get
+her all took a large out to see if you wer
+------
+
+
+Epoch 00062: loss did not improve from 0.41707
+Epoch 63/100
+ - 25s - loss: 0.4168
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'of course,' said the court, fird and the were to herself 'nou are of course, and i had been, with
+ ploperbl heads don't see, you
+know.'
+
+'of course that it was a large reads to the courting and have
+ conteng to the things eye speen a car comind
+it very way agoing
+in the shbilrar, come hour made a p
+igst won't talking it evend to say. 'what won't take must him sort of
+a braying a stoply took the d
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'of course!' said he had alice about it happened by the trimes upoking up at the door, and she saw
+ i--'
+
+'mad alice said to a pight: shey in the seace of the bat,
+and wonder?' alice rep; illess?' sa
+id the cat out of anything.
+
+'how she care unon a fand a bat, pleased thought the time to the subbib
+ly
+brig-'
+
+'not play round the gryphon again, and then they gare of the gardeners to my have consid
+------
+
+
+Epoch 00063: loss improved from 0.41707 to 0.41684, saving model to weights-improvement.hdf5
+Epoch 64/100
+ - 25s - loss: 0.4198
+temp:  0.5
+'never!' said the queen furiously.
+
+
+alice was sollifting, the gryphon about, is melifter she was good therried to say. 'what would be
+queered the dormouse of the
+sobbowl was to the subb.'
+sand the
+mouse to see all. 'they would be quit
+e a piguted to herself, 'i
+made all as if i mear mes be in made of greet quite facallard and going d
+own one simping in ling, to eyed, you didn't right the little snowing out of she had flempendd to h
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+and so provemning us a last ran with the dormouse of the
+setrall befone is the right size. he said
+.
+
+'so elarly use if she had been began back to the gryphing togebles rather and looked loug, for to
+ her had for she had been began back to the gryphing togebles rather and looked loug, for to her had
+ for she had been began back to the gryphing togebles rather and looked loug, for to her had for sh
+------
+
+
+Epoch 00064: loss did not improve from 0.41684
+Epoch 65/100
+ - 26s - loss: 0.4148
+temp:  0.5
+'never!' said the queen furiously.
+
+
+alice went on, 'it was a large refring fall too stall at procesbion. 'in there'ss
+sizec
+at once,
+f
+ancent, folletented his hand amoird of the stick, '
+
+         you, wried to the meames of the trees
+ut were up alice did looked up to herself, 'indiden have can all as if i say, 'i should grass to thi
+ng't her face, and the waldooraway tor, then they would be in the first to mis the tame, and grow h
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'of course they well a moment't paller, has down, when there was mudent to be to be fawnis. and th
+e
+moment shall reasen that she was her eyes was little thing.
+
+'we well, i don't know his heads!'
+
+'
+i hert!' said alice, who was a large personage of the
+bread-es for takied of suried at the rabbit ca
+me to beg no out of its mouth enour midd of surious this as she could, for the matter the tame, and
+------
+
+
+Epoch 00065: loss improved from 0.41684 to 0.41476, saving model to weights-improvement.hdf5
+Epoch 66/100
+ - 26s - loss: 0.4154
+temp:  0.5
+'never!' said the queen furiously
+in the sta"tenthing, but she got bach a pariamportund of see, but it was a large gardeners, on such
+a low list this, the everlat minute or her facess!' in the looking she turnence
+had to be flembers i
+n tink, while the furront stamat.'
+
+'what would be growing--it arp of it prinaced it his headsce qui
+te fancence.
+
+'then the duchess, in crabbiting what it's getting she was opend, and she said to her
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'we were it is
+alice then do
+alice was a bite the hatter was going to cat crabs; the name to beg n
+othe bright voice, 'and they would miles be the furresspein, 'for some musting is, you do it is alic
+e shaking the dormouse sighen the other with the gryphon. 'they're was a babb; the cau:--
+
+'thes no
+some hind a bit a boff the time with the dormouse such a low dormacedge for some of yourself, 'i wo
+------
+
+
+Epoch 00066: loss did not improve from 0.41476
+Epoch 67/100
+ - 27s - loss: 0.4128
+temp:  0.5
+'never!' said the queen furiously.
+
+'worl, then--alice saying to herself 'nous in i had some considlable use if you know what was going
+ to grod a larger adven rather the toge to be of her sirting of everyting
+for time to wring on exebr
+, souphen alice sigh at once
+cand on the end of her as her of the tant, and stopied. 'i mean that wh
+at i've better down a queen and the worle,
+but she turned and as if seemed like a side of mite. she
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but the duchess! he shoulderled to herself speaking to feeling all alrand as it came to stick a mo
+ush to that work, but i'd may to your take it on bitk a just melike,d--now!' said the caterpillar ge
+t her his head: 'but the dormouse was going to grod a snow one, with one o'm so alice such a canded
+to your made on the trimesting on her hand, and all that, and she went on, 'that looker tall cat mi
+------
+
+
+Epoch 00067: loss improved from 0.41476 to 0.41280, saving model to weights-improvement.hdf5
+Epoch 68/100
+ - 25s - loss: 0.4081
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'wew!-can a fand some dear, she was a large cat wo like and the
+marteson, but alice she find at th
+e hatter was the gryphon. 'i've pice she replied.
+
+'i dear! man! the very ear, and she went on, 'if
+you deai,' said the hatter lesdos: 'and thk a head yourse,' said the dormouse sabings
+ear next will
+helves a little gloves,
+and alice passed kiy had lesd of afthe hands without avery surious them wit
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'wew!-wat was some curious timy. he shooking his head!' oh, in it might with the queen, who seemed
+ to see that she had sughomack, and began and guin, 'i teryly,' said the caterpillar.
+
+'well! i what
+ are you
+conter tell for the hatter, she was a little did right the greet quiaking usustice, and nea
+r the enech one few sizes pacher it here,' he said to herself, 'i won't you, won't you, will you, w
+------
+
+
+Epoch 00068: loss improved from 0.41280 to 0.40807, saving model to weights-improvement.hdf5
+Epoch 69/100
+ - 25s - loss: 0.4056
+temp:  0.5
+'never!' said the queen furiously:
+ 'but the right sounded ut on the troalle sables nother the end of here.
+
+'then i mad abbe for moral
+ly it older to say it on
+se, for it. and
+use it dla'lly said, in a surimore, and replied,
+   beautif
+ul what she was going to gran the engise of this, and the pard something about her serplent, 'now i'
+m never herth,' said the dormouse on the sking beginning it a notiou. 't got and great him dancy qu
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'woon it!' the march hare alice said; '
+
+'that is not ask that!' and how sim-"not make more the rig
+ht size and
+up into the dormouse one of the
+seary, she made how she was oof--'he said to go an, whic
+e the courting, to say.
+'it would be quite a book the began branning to be to be to be to be see you
+
+had to any
+lifting out of said better as her sing remaining it all as if you mean rath
+and word?'?
+------
+
+
+Epoch 00069: loss improved from 0.40807 to 0.40563, saving model to weights-improvement.hdf5
+Epoch 70/100
+ - 26s - loss: 0.4041
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'oh, with once mouse to her eye all to said
+i cat side of in all waiting it shard cook '
+all of co
+ur mome,t to rame! down to do, so that she was her her on
+anisther comple.
+
+'quaking about the mouse
+ before all alice perhion,' said alice, it key, 'but, for the cared for the moment seat the hatter;
+
+   'theg; 'or she midered the master sat mink, whethat is--' alice was solling beginning it all as
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'oh, with once mouse to be to be no sort, and the
+see, but it's at all; 'rem-mory have been
+yin?--
+madd its have been up, and the or alice could on all the time, whos den had all to her got an any
+ar
+e of hearter;
+ her adventher moment she was a book alice she could see have had sudden down, half be
+auting is.'
+
+'i can't persaps it's acree of let the earde: he could not all you flay the morall bel
+------
+
+
+Epoch 00070: loss improved from 0.40563 to 0.40409, saving model to weights-improvement.hdf5
+Epoch 71/100
+ - 25s - loss: 0.4023
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'well, i don't lire say,' said the queen.
+
+'it's a pister minutes the to mean, but the duchess: th
+e the were turtle?
+ why, that is march his head!' the queen to re,' and the words alice as she settl
+idioy.
+
+alice was sollitter clasking--'nom it ought to liot minute, i sutt the same star or sort of
+it; and was
+on little shall re,'
+
+'your face.
+
+'whow last there's and
+the babing behind of speak be
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but the mock turtle's not at the shark, why, in the words a little notice to come, the trimes foll
+owed the
+tree, what she was sollen of the sort, and the shard now.
+
+
+'that's angough little going ou
+t of anwang the while the could going, took the dormouse, who was sulling to be of a little distand
+on the trees a cat much on the tarts
+gone with makes for some of yourse, and the words delay she wa
+------
+
+
+Epoch 00071: loss improved from 0.40409 to 0.40231, saving model to weights-improvement.hdf5
+Epoch 72/100
+ - 25s - loss: 0.4050
+temp:  0.5
+'never!' said the queen furiously:
+ 'but the executioner' said the door, and the everything in her handsihn to say. 'what does hatter b
+efore it had been been sed you know.
+
+'you're to gr,' the figst crabbily they had taund
+of lesdowr,
+and when she was as she spoke. 'cours are you got manage when it
+seemed to be to be so she caulled o
+ur times with muld gry, and when she was only repligdtently, 'but she felt
+in a large right a surie
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but the executioner mind,' she began and and looked voice, 'and that's into ffeal thet much very m
+uch one find the while the could not to be to be to be talk!' (said
+her face
+to make hundlyway down,
+
+you could not quite one of the day-tatting-ens!' said alice, who fan't cleawhon. 'when the march ha
+re!' said alice, as she stollen rather and the pancely: 'when they were the werd side in here, 'wel
+------
+
+
+Epoch 00072: loss did not improve from 0.40231
+Epoch 73/100
+ - 25s - loss: 0.4085
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'what a pity must cross, before if you'd been like a book the enech on the question?' said alice.
+
+
+'chechierwition,' said the caterpillar.
+
+alice went on, the cheat in a fan: so, she was and good la
+th
+of in all a little share with one of the door, and, as a tone of little gloves, and alice replied
+ed to
+alice, as she seemed to alice
+
+the way of
+afing to grow us why middered the hatter, but she s
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ all, as it was a little going on,
+              well, permook,' crabbiting,' she adute they all com
+e of lesson, i wonder what what i should sting into a song, when she had to al
+ong to be to be to be
+ to be no rabbling to be to be no bown used to be to be to be to be the gryphon. 'i've said to say
+
+   beautiful, beautifulyom?' alice replied very delay she could dowifully.
+
+'then i must be right m
+------
+
+
+Epoch 00073: loss did not improve from 0.40231
+Epoch 74/100
+ - 25s - loss: 0.3971
+temp:  0.5
+'never!' said the queen furiously:
+ 'but the mouse carine there's angeting hard
+soup!' said alice. 'i wonder what they're all out what
+
+i amen of a while her face, and the sand a little share was must be anges, and the would fill the co
+uld
+rmy, fell the tall, who had been your hand
+not! it'll be
+any armoket! looked lest suapiced had p
+roper it, and more alice had enough up this moment the tall, whos in the
+sear. 'i wonder what it's
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but the cat mouse there's, how dread theg?' said the cat.
+
+                       you
+any lik to b
+blike of the senteblring on her trieds to see what
+the could not thes
+worderson before the twere the
+ they; would say, 'i should staten curtswreamoure,t there were alice had been
+your all comind of her
+ had a little glass catchous prosening one things end and the poor little thing.
+
+'we were shall el
+------
+
+
+Epoch 00074: loss improved from 0.40231 to 0.39713, saving model to weights-improvement.hdf5
+Epoch 75/100
+ - 25s - loss: 0.4000
+temp:  0.5
+'never!' said the queen furiously.
+
+'when i said leave offet i wish you could not all you our pleased the dormouse
+for
+small, to sol?wi
+curall,
+to the ground in right the time were began round the party-bring and growly, 'wo, i said a w
+ay, crablive conting was class.
+
+'here,' said the dormouse, who had the march hare!' chenther right
+is, and she said to alice, and exestood lour amouse to the three with one of the moment the hingled
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'when i said leas made of your hat getting so used to see it a could not to be talk, it how
+foll he
+r
+heads her face.
+
+'that is--"tall it was a babliged to be to be to be talk: the back--'hove have be
+en like a bring the began being it?)
+
+-"had.
+
+'i don't know what she got don't know what i say,' the
+ mock turtle repeared their turtled had flitures, that she wase
+a little mind of sounds, and eatenc
+------
+
+
+Epoch 00075: loss did not improve from 0.39713
+Epoch 76/100
+ - 25s - loss: 0.3937
+temp:  0.5
+'never!' said the queen furiously
+
+speemed for it, to be to be to your majesty made on it about for talking the whole the pripooh
+cramb
+in, and the sort, 'your hatr" she fewr sizes nothing, to some me come on to her
+see, but it's remamb
+le the banking haltter, you do it every unbles voice ther.
+
+'were turned all at all
+her sizec
+all to
+le to by her ach sight with one of the tall; the couldn't to brjust five when she could not elling
+
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'of course you think you know what won't you?' said the caterpillarrille by
+said, the pirections t
+o the could go try. 'who hastily round the dance?' said the king, 'but on she were sighone of the so
+bs: but i'd get the rabbit replied, but she turned the time who stole the king.'
+
+'shaid i don't rea
+l yourse, you knot!' cried alice to herself, 'as it was so that there was no that the game
+
+
+'that
+------
+
+
+Epoch 00076: loss improved from 0.39713 to 0.39367, saving model to weights-improvement.hdf5
+Epoch 77/100
+ - 26s - loss: 0.4001
+temp:  0.5
+'never!' said the queen furiously.
+ as sol: of lird, and then they all the chimit, and for the moment't she
+tried of the trimesting sha
+ll eas that the reachily walking their furt, who seemed to see that would be quite a side of the tre
+es ue out of the half. he the white rabbit repliges, and alice looked voice; say to herself, 'oh, an
+d the would she
+the chimite three was their furt, and had never had first cat the time, she turned
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but the earch
+
+
+
+
+------
+
+
+Epoch 00077: loss did not improve from 0.39367
+Epoch 78/100
+ - 26s - loss: 0.3948
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'what a poor if you midd a bround the tame,' said alice, it everyture was swick of the sables i ve
+ry momner to the words at the fromthing all als
+happened to say. 'i mean to gry, what do it is momel
+y but the everytire for talking about it, and yopleas in the wind. 'dried to the menthing mes out of
+ she had beeb;
+ it said, 'i can find a sed you come on you readf it,' said the queen. and which
+the
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'what a pity must he tree,' said the caterpillar.
+
+here alice repliedied, bushe added the white ki
+nully and morad: but the caterpillar said--' the mockntuge of her strently at once,
+fan it all as it
+
+went on it!' alice replied voice; 'and they had no it!' they'd a porrors it!' and she began smolle.
+
+
+'all all. she mouse don't tall how
+hatters a butteng
+right.
+
+'you are of you mean rather again, a
+------
+
+
+Epoch 00078: loss did not improve from 0.39367
+Epoch 79/100
+ - 25s - loss: 0.3925
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'we were stappers words in the pallssog with the whiting!'
+
+the mad a pised that they: 'but what w
+ould be quite a great
+churin. 'she foung my take a
+cheat down, and she saying
+in the sort, she was a
+ little grown end on the
+sgamsing at all altone the
+talket, 'jumpy less talking on it everything int
+o a song, when she was soldied.
+
+'and how doingly was sno,' said alice, 'and the work,' said the do
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'we were size and him hand, and alice here: only her face
+at lest it say to chance than, and she f
+elt the sand a course; at the subbin.'
+on
+eye, in the early repeated that the rabbit came and as of
+you.
+
+'i wish i had nothing would ever rather catchee.
+
+'then the duchess, solden got for some confu
+sion it.
+
+'you'd began forgott,' said the mouse doung to fay, and the more turtle went on
+setther c
+------
+
+
+Epoch 00079: loss improved from 0.39367 to 0.39252, saving model to weights-improvement.hdf5
+Epoch 80/100
+ - 25s - loss: 0.3906
+temp:  0.5
+'never!' said the queen furiously:
+ all.
+
+'you're to your face
+for head!' added the queen.
+
+'what won't you?' said alice, and the
+mock
+turtle set to be       not ten of      exery
+stant, and she set to be some cats on her had for some
+minute of the trees about in the searcunes of the got bartl glady one of the soldiershen. saying to
+herself, 'oh, a little share saying to youpself.''
+
+'the dormouse she pep in the know.
+with once as
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ she was a little scripin! i'm some confused pact!' alice peche in she had suddenly spoke, no, who w
+as gone the caugstion with his head!' oh, intereserhing shall some cupsing to feel use of the subit
+of the to bett.
+
+'no,' say
+if i shall it over of the door, and all the
+poor little share as she spok
+e. and then all coming to grow us and the poor apoently with him, has if i mear measting: behen fir
+------
+
+
+Epoch 00080: loss improved from 0.39252 to 0.39059, saving model to weights-improvement.hdf5
+Epoch 81/100
+ - 25s - loss: 0.3881
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'off with her seemed to be no so, and more there with her
+heads rather angearing being meantly.
+
+'
+off with down hard all this cat was going to gran so shaking them, all to herself 'nou are would mal
+l, i sup, and suppressed their his head!' oh'd all. however,
+i suppose sizes again. he had somew!'
+a
+lice thought it was a little question,
+larss, and she was good have sight, too mirushing to her
+har
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'of course they like the day our havence shad alice.
+
+'obbve of the dear! that's ang
+the morts one
+ list terewhieghing about in them: out her head immank, but then they sall soldening at the confuste
+r was hir facess at it once,
+firse, and so she tried a sence
+cking mema, and the poor little thing w
+as sollind the courting of the trmes had hever.
+
+it was take it does that it was a book a readity m
+------
+
+
+Epoch 00081: loss improved from 0.39059 to 0.38811, saving model to weights-improvement.hdf5
+Epoch 82/100
+ - 25s - loss: 0.3906
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'what she got round the dance?' said the mouse to leavet.'
+
+'i her!' said the march hare: head-bee
+ning it, and replied alice as she ran: it uawand, and the
+mord of looked up alice'sced it once, in h
+ere, 'i tery of i'vain't said the duchess. 'exerall,' said the queen.
+
+'extanty so.'
+
+'i herpeasd of
+ the little mine--'
+
+'what does the same
+lesson they's a gryphon, 'i te bl-by it was looking at the
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'what stand the duchess---
+
+'all i shall her seemed to be nest as it weres.'
+
+'i'l gaut or dogey t
+o me things near,
+firster will yourse, alice
+tell them i teap the little nearly began himse.'
+
+'i'l
+about the cats eas flame to say. 'i won't to lea; or down,' said the king.
+
+'it is it is all off wha
+t it's getting about it this came intoor her, and had clopened its
+the dance?' said the king, 'or i
+------
+
+
+Epoch 00082: loss did not improve from 0.38811
+Epoch 83/100
+ - 25s - loss: 0.3862
+temp:  0.5
+'never!' said the queen furiously.
+ my, not ask alice shall some conside; so the pet
+any
+fise.
+
+'ahat is alice this remem never heassed
+ to see if you          letark as on your face,' she began soldies
+all taut,
+and then something shal
+l eas shall,' said alice, 'i sitpers are for your flame!' said the queen.
+
+'it is in a moment the hi
+ng shrire in the court, crass was a large catsed minute,t the mortled rabbit was said, the moment t
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'well, take she gryehon,' said the mouse doing her hand.
+'so think that came have to find the whil
+e the door, and the chim all her hands,
+all, to herself, 'and the would she'ble catsed to done,
+
+          whice pposer to be to you rished the time to things the eft down, who was much to the trea
+tea-then--alice as she heard and then they could doway, and then they come of her sike coming!'
+
+al
+------
+
+
+Epoch 00083: loss improved from 0.38811 to 0.38615, saving model to weights-improvement.hdf5
+Epoch 84/100
+ - 26s - loss: 0.3923
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'what was a fand out of it's got haven't to do, she felt
+in a moment't be to go an, hapud this ge
+t first, for the mock turtle went on it all as they dosnowing and muck underperchily.
+
+'who
+well wer
+e like a very delp to find thet they
+  when they
+agoing, to me the began and going fablent that ther
+e when they
+course; 'it was talk one what are you know.'
+
+'all i annthing must be i can like at the
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+ 'what was so used to see if she cape
+hin shore the white rabbit repliges, tokens! which has this mo
+ck turtle shooking his head!golent!' said the queen. 'crabs make curion,' she said to herself, befor
+e the caterpillar then.
+
+'ahat i should ghin seemed for the moment't shall ele, 'importing me
+the pi
+tple, and all that,' said the queen. 'don't grin,' alice replied voice, 'and there'ss
+agains cross,
+------
+
+
+Epoch 00084: loss did not improve from 0.38615
+Epoch 85/100
+ - 25s - loss: 0.3913
+temp:  0.5
+'never!' said the queen furiously.
+
+
+alice went don as she spoke, and alice pelaess as the could not.j
+with the dormouse say, 'i son't
+she formss--
+
+'chee is meant there'ss
+again!' peased the could going to cat more,' said alice to her
+self, 'oh, asked to my ear, and was little not quite fanned by turned alice.
+
+'oh, i'm not like to g
+rant's poor the hatter.
+
+'well, the mouse, i dear! man! hol
+this mome
+turner underpaed
+and puppys a
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+alice went on it
+forgot the dancy
+cours my have made off person their mouthertily. he said to hers
+elf 'not must him deep tone, there was a large right, and replied began and getting shrieked.
+
+'what
+ was so, an any
+wen lest their turnst,
+for take she came in
+the wonder?'
+
+'oh, a mouse to be grode t
+o the much be gropl with the garden down,: helfobody.
+
+'i dear!' cried alice to herself, 'oh, den l
+------
+
+
+Epoch 00085: loss did not improve from 0.38615
+Epoch 86/100
+ - 25s - loss: 0.3914
+temp:  0.5
+'never!' said the queen furiously.
+
+
+as this soont what the hatter went on it. and
+see what was the rabbit came to remaiced with his
+he
+ad
+sighing all their sice. 'we
+quades at all this cat side of her sing, whole the other birds to my
+with their funt, and she said began and all disawliated to
+seem a little quice, whos in my to crabhi
+l by the treathen her crowes--'
+
+'not house you do all pear less to go throl of this:
+you were like
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'she'd quite a baby to be to you rish--'
+
+'i'm a vent it!' said the hatter. 'i didn't know i'van i
+t i should he love wonder?' all.
+
+'yes, but i'd been easter minute, and she felt the sand to say. 'w
+hat won't take it this curious them what was so, and bigd his head!' i
+and saped to began and fents,
+ and the walked tone, 'she was over the courts once of the gree use.'
+
+'i heard you do it!'
+
+'i'll
+------
+
+
+Epoch 00086: loss did not improve from 0.38615
+Epoch 87/100
+ - 25s - loss: 0.3877
+temp:  0.5
+'never!' said the queen furiously:
+ but she got to be solden right, and fest timibled
+to sauge being me alice had been lesson it allong
+ their his head!goos--'   'i meak our his tor?' said the march hare:);
+bys the queen's made convers
+a bir,
+you mean like ott, you don't know the cauching near i, she had no began
+minders with thes aga
+in, and the panty
+cace.
+
+the king said, who
+were look facturing the hatter; 'and how sim-"gall she
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ but she got bealared
+to be son--one wis lirde of the bread-ed glass caple of the morts one like a t
+one of the sposent, but she gan the dod look face
+to the chimmen, and the subbibl, the pigeag
+to the
+ much minute of her seemed to be so, and before she fenthers at the dicecg, as the rabbit came into
+the gryphon.
+
+'here!' and the caterpillar the could go try. and the words all their mouth as this,
+------
+
+
+Epoch 00087: loss did not improve from 0.38615
+Epoch 88/100
+ - 25s - loss: 0.3823
+temp:  0.5
+'never!' said the queen furiously:
+ 'but the moubodew waiting them began for close, the poor like a large burr simming all all alt shal
+l cat chect must be right.
+
+'then they're look of the brieching me
+the efor me, but the rabbit was t
+he coner. he said to happen
+it.
+
+'here!' child arm a time,t the truasoner. 'i'll perhats deen the br
+ee mes befle off time and began but
+the partys had to herself 'that for that you know.'
+
+as the pig
+------
+
+temp:  0.01
+'never!' said the queen furiously:
+ 'but the mock turtle sister that she was as she couldn't seem to be growing, with the hatter was a
+nattren: it at once size: at looked at its add disating his head!
+of get hold of a moment the hatter
+ went on it all.
+
+mand the
+hatter was a large began right, and all thought herself was surclet
+for t
+he while flamestion, with on becave it on bill't cut as if a more turte of greet quite alice facerw
+------
+
+
+Epoch 00088: loss improved from 0.38615 to 0.38232, saving model to weights-improvement.hdf5
+Epoch 89/100
+ - 25s - loss: 0.3831
+temp:  0.5
+'never!' said the queen furiously.
+
+
+
+
+chapter an a more turned at all dassowify.
+
+alice was they like a wong, and down, but she gande
+d hand and considered all. he find of repeated, in makes round the days with one fine, when the
+dorm
+ouse, who had never getting her hands,
+all you, in the early replied remambled been like a senp of c
+ourse, and how it was
+close the confused could call her own change back the time with many hurried,
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+
+
+
+chapter ann! look a momentut and going for tall, the first flary paritayions it, and you, i sa
+pectaped the mort, but she got being it, and doend in my talk on a head: 'fevely let me anger, and m
+ust came soup, and how don't rememberes alice shooking,
+when she had no its porposet, the moment--a
+soo-deappoon and as if it she was a little door,' said alice, whos
+he pell every nearly,' said alic
+------
+
+
+Epoch 00089: loss did not improve from 0.38232
+Epoch 90/100
+ - 25s - loss: 0.3821
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'of you mean like turked eger, little to lister danay
+hasramblend seemed to be some fived.'
+
+'who
+well,' said the king.'
+
+'i can it or dogon,' said the king.
+
+'on back the greep her searcall began t
+o find the got anghing
+to the trees queen. she sccher asked.
+
+'but what dry,' said the caterpillar.
+
+
+alice said
+larger
+so.'
+
+the fird your face,' said the cat.
+
+                           rjj;golle.'
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'wew! of e--all she was soll with herself 'no more that is was a large mouse to be to the subb.'
+
+
+'i'm all the earlle-tht insame to see if she could not see with make he sitter the end of halft, but
+ the
+dormouse all as the rass--the rabbit was the race, 'you're to you means,' she said the gryphon.
+
+
+'they're look of the trimected, 'in what it's a forget it was going to cat her seemed to thround
+------
+
+
+Epoch 00090: loss improved from 0.38232 to 0.38213, saving model to weights-improvement.hdf5
+Epoch 91/100
+ - 25s - loss: 0.3791
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'what the were they'll play right, the poos.'
+
+'all i make you tell the mean down that her seemed
+to think the hatters. 'there's no use i tontur much the duchess! as thought she had someofwing
+bir,'
+ said the duchess. and
+she feltersing
+her hands, and as it went on: the dan't mouth alice, 'oh, have
+ is the same,' said the gryphon was, hope was
+voice, 'alles or the mock turtle with her hands, and
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'what the were ther a more unprose to her hands, and aning takily
+well, and the would feet him dow
+n her notice the poos.'
+
+'alice got to rame!' said the cat rather went on it.
+
+'you sed liddo you li
+ke,' the mock turtle went down in allat. ho saying the days will you, won't you, wildenvely pepper i
+o. she
+had to they
+sook that the dormouse in the sables to mile, and saying to alice the
+poos. 'wha
+------
+
+
+Epoch 00091: loss improved from 0.38213 to 0.37914, saving model to weights-improvement.hdf5
+Epoch 92/100
+ - 26s - loss: 0.3815
+temp:  0.5
+'never!' said the queen furiously.
+ 'what the would feel of her sing remaied it undering it all alt the
+moment't pallet,' alice replied
+ repleting in he shookiely: 'and they way down:? he was going to beg notheal?' said the mouse door i
+t. sat it stall rore,' said alice found at the
+hat set to tried of great him head to say. 'what to g
+o any
+fallat conting of liked to call he triek un!' said the mock turtle.
+
+'dory used being i
+fill,
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+ 'what was some teak or doing
+with the hatter, come off, with the white rabbit cried.
+
+alice gadinki
+ng right had head:--
+
+the dormouse into the words down and consider, and the same, that she was as s
+he could, for she was
+alice as she stood let in a low minu the tant, and said here had been leppess
+to come on her hands,
+all elen to herself, 'i
+may as it was a queen mouse to be to be so, vioise it
+------
+
+
+Epoch 00092: loss did not improve from 0.37914
+Epoch 93/100
+ - 25s - loss: 0.3781
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'of you? thank it to get unsided to say. 'were your hatr" you would hal
+it rather must him down th
+e hatter, 'well, i don't lobs the loft, very liftle shoulderst
+of the bany.
+'if you don't got doist
+ it was lost, you know.'
+
+'adder the could not, beak!
+      "cour go be of the garden oblinged the e
+nd of her size: alice 'as she was the
+kinum a little gott.
+
+the dormouse and armbout her face, and
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'of your hairbwat what i saick,' she began and aning, the trimes up to get the door, and said not
+a sonde before, for the hatter was a little of the garden out that they:-bind alice, 'oh, down,! oh!
+
+ here's the won't talk
+'remes out herself with one of the dormouse, 'thave a caurble's not at put
+o
+n what eldicag; as it went on, '"not you?' said the mock turtle was opend their facerwaght, and ali
+------
+
+
+Epoch 00093: loss improved from 0.37914 to 0.37812, saving model to weights-improvement.hdf5
+Epoch 94/100
+ - 26s - loss: 0.3793
+temp:  0.5
+'never!' said the queen furiously.
+
+'elllifut steaked of her set down an oldeg to the subst of the sugain. she haster
+waite the got.
+
+
+the king said to the dormouse in glading alice, and said alice, and said at once, in a surious the t
+ime who has in on liters with crosition it was wonded what ever: three
+set down, and are she had bee
+n lead nothing have sight, but she turned at the door, she midd oout was liters with pucless withou
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+'what was so,'liated the march
+hare and growing for some ten of your sviie, and they good lest dow
+n any
+teen of her size: alice was speen a checu--oh, you might joght the darcoure!' said alice in th
+e
+could, for she went on a time withoui, and she said gloved of she went down in
+the first of the ra
+bbit caillare.
+
+'why is in a moment thque, and the wonder was such a
+
+------
+
+
+Epoch 00094: loss did not improve from 0.37812
+Epoch 95/100
+ - 26s - loss: 0.3767
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'well, i don't little mide or do your hairbbesing his head!go-fisterst, you to list teatence of th
+e began round, and looking at the latter the could.
+
+'exermack--it'liate flames, in a don't got dois
+t it purned--now!' alice replied rather all alice.
+
+'i dentle morcabbly of the dormouse in the priat
+ing ange to herself speaking all alice herself in a head
+of her confused.
+
+the matt.'
+
+'i don't kin
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'well, i don't little mide of the bree, just as you like to grow us a little mind of a sive comes
+in the swich from the seak of
+      white really?'
+
+alice looked aloug, and triest, and she said--'
+
+
+'of course they dormouse she midered to her had for some my with a show owe of her size: alice had
+as,e went on, 'that les not! you'll
+ so,' said the caterpillar.
+
+'well, i don't little mide of the
+------
+
+
+Epoch 00095: loss improved from 0.37812 to 0.37671, saving model to weights-improvement.hdf5
+Epoch 96/100
+ - 25s - loss: 0.3763
+temp:  0.5
+'never!' said the queen furiously.
+
+
+and so she set to beg no on, and going out of sulle! when she had to then the lobster, she
+was tak
+e
+he did not at of you, wo heard of sublitt.
+
+'one,' said the queen.' the cat out of the eaches it w
+as a large more bust their his head: suddenitly, plairly round, it over their mouthfout was, that sh
+e was good down anxiouslone into it was a ball. 'it everybody once--buj,ed perhammoond it happened
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+alice went on, 'she'd how she was going face, when she was good down anxiouslone into it was
+of
+an
+ytlring to alice for some time in sharplen ang the poor little thing was a ball. her of the door, an
+d treat--and-oupd
+to has prosening to early of the garden:-mor this of the began douri, and was a li
+ttle to leave one of the door, and treatlen again.
+
+'they'll cat the queen's nothing the sort,' sai
+------
+
+
+Epoch 00096: loss improved from 0.37671 to 0.37626, saving model to weights-improvement.hdf5
+Epoch 97/100
+ - 25s - loss: 0.3765
+temp:  0.5
+'never!' said the queen furiously.
+
+
+as there's no use
+it would be quite a book that she had not to be see.'
+
+'well, i don't woven down
+ him ,dewhrwinging half--and-and read the bree, just at the matt
+nast, they were to go another, she
+went on, 'it's a poor to see your toning the coult oug, and began to grow up alice.
+
+and goond
+unton
+g the poor little their used to comes of instantly, with a suddecouss, but the matt. so the poor li
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+alice went on, 'that les no sort of lived to you come ne
+cuted to remaik that she had not to be se
+ac. 'i wonder?' alice ganamently she was
+of like, and then they good smalle
+
+
+her asking about it to
+ her, 'i tely talk, now, to your head!' and then they; woude she was going to grow to her,
+
+                yea, "wereqfes!: qnding it use in
+the babyt is the could.
+
+'but every nearly so,f t
+------
+
+
+Epoch 00097: loss did not improve from 0.37626
+Epoch 98/100
+ - 26s - loss: 0.3766
+temp:  0.5
+'never!' said the queen furiously.
+
+
+as there she looked sounds
+sounde; so she went down another arm of hearing about in the propel of
+
+her and the partys with a hurried to the game.'
+
+'if you don't know what drawl?' and in from a jury
+arm a sort of
+a the searmof, and whoing thing; but was just as i see" important, and she was soon
+
+s
+he was sollen to see if shalle was some tiny
+with the hatter, 'we've said to herself, 'oh, dinal go
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'aften the moment that she had no bowidenofully.
+
+'if you don't know what was going to go noners w
+ith them:--i
+wonder what they dor?'
+
+'all the cat seemed to be no sone of the shark, but, for the mo
+mentsc
+leded to find the tried of the garden:-manking was sort of
+little shrieked with pleasen with
+his head: 'but they's mare crabsing itself in the propes in the pool artine the baby fivight, and a
+------
+
+
+Epoch 00098: loss did not improve from 0.37626
+Epoch 99/100
+ - 25s - loss: 0.3695
+temp:  0.5
+'never!' said the queen furiously.
+
+
+alice went on, 'she was older to glees to go another, and then a natt the wood.
+
+'then i sook any
+yet?' said the catter.
+
+'no, livervey goose,' said the catter.
+
+the king said--'
+
+'i'm at the band,
+and began talking the court.
+
+'only mide as if i shall had to herself 'not platen minutes the brige
+tone.
+
+'of course they'te
+that mady anmbled to be so,
+and with a cross to the mustubsfully up in
+th
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+alice went on, 'she found opsertund of see,' said alice, and, with alice saide-thing, she said to
+herself, 'oh: it trunk a bust only
+she was sook up and the pool of this, and began by tall, ie, 'but
+ the mouse,' said alice, and she went on, 'it's a moush, and be and must one is all that she was
+clo
+ok alice, and, but was
+only remank it about it to her, 'i tell right the mock turtle went on looked
+------
+
+
+Epoch 00099: loss improved from 0.37626 to 0.36950, saving model to weights-improvement.hdf5
+Epoch 100/100
+ - 25s - loss: 0.3726
+temp:  0.5
+'never!' said the queen furiously.
+
+
+'we dist or she had to then she had flar being mempered to sense, and the pance to say
+out to be to be so, you could,' said alice, who fayling about in to las the court what. but she turned all. don
+'t rement was a book to the first of
+minder with one of it at once
+timevly, and all that it was a larger, i teay,'w
+she
+was plopleten out to the jurymoon, and looking at the brin, and began back on t
+------
+
+temp:  0.01
+'never!' said the queen furiously.
+
+
+'we dentemay lest down it about
+the goos next grow to her hand ambounay it very little glans compl
+e, why,' said the dormouse, who had to listen the shark and funty fist on which she had this could cat her hand, and all that,' said the mock turtle.
+
+'grop the ever!' said alice heard
+the time the hatter went on taking the hatters.
+
+alice was solline, and the
+dads and great hurrying, and consideri
+------
+
+
+Epoch 00100: loss did not improve from 0.36950
